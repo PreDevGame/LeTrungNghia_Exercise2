@@ -1,0 +1,13 @@
+Báo cáo tiến độ thực tập
+Họ và tên: Lê Trung nghĩa
+
+Exercise_2:
+
+Ngày 6/2/2023;
+
+	+ Đã xem 1/2 video hướng dẫn.
+	+ Đã tạo dự án up lên github.com
+   
+   Mục tiêu hôm nay:
+	+ Xem toàn bộ video 2 lần.
+	+ Hoàn thành 1/4 video hướng dẫn.
