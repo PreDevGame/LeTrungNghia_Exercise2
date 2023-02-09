@@ -11,3 +11,14 @@ Ngày 6/2/2023;
    Mục tiêu hôm nay:
 	+ Xem toàn bộ video 2 lần.
 	+ Hoàn thành 1/4 video hướng dẫn.
+
+Ngày 7/2/2023;
+	
+	+ Đã xem 2 lần toàn bộ video.
+	+ Đã viết ra yêu cầu của bài tập theo tutorial.
+	+ Quyết định thay đổi player gameObject cơ động hơn. Nhưng vẫn sẽ đạt đầy đủ các tính năng nhặt súng, súng chưa có đạn, nhặt đạn,... của yêu cầu bài tập.
+
+Ngày 8/2/2023;
+
+	Mục tiêu phân tích code của gameObject FPS.
+	
